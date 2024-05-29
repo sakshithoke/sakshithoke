@@ -5,13 +5,12 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 - 😄 My pronouns are she/her
-
 - 👨‍💻 My Marketing projects are available at [https://github.com/sakshithoke/MarketingProjects](https://github.com/sakshithoke/MarketingProjects)
-
 - 👨‍💻 My Analytics & Innovation projects are available at [https://github.com/sakshithoke/BusinessAnalytics](https://github.com/sakshithoke/BusinessAnalytics)
 
+
 - 📄 Find my Resume [https://github.com/sakshithoke/My-Resume](https://github.com/sakshithoke/My-Resume)
-- 
+
 - 🔭 I’m currently working on **projects with Tableau and PowerBI to enhance my analytics skills**
 - 🌱 I’m currently learning **Marketing strategy, Google Analytics, SEO and PowerBI**
 - 👯 My skills include **Microsoft Office Suite, Canva, Tableau, SQL, Python, Java and more !**
