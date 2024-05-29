@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on **projects with Tableau and PowerBI to enhance my analytics skills**
 - 🌱 I’m currently learning **Marketing strategy, Google Analytics, SEO and PowerBI**
 - 👯 My skills include **Microsoft Office Suite, Canva, Tableau, SQL, Python, Java and more !**
-- 📫 How to reach me **sakshi.thoke@edhec.com**
+- 📫 How to reach me? **sakshi.thoke@edhec.com**
 - ⚡ My hobbies include **Singing, learning to play an instrument, appreciating art and nature :)**
 
 <h3 align="left">Connect with me:</h3>
