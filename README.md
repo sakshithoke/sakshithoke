@@ -9,8 +9,6 @@
 - 👨‍💻 My Analytics & Innovation projects are available at [https://github.com/sakshithoke/BusinessAnalytics](https://github.com/sakshithoke/BusinessAnalytics)
 
 
-- 📄 Find my Resume [https://github.com/sakshithoke/My-Resume](https://github.com/sakshithoke/My-Resume)
-
 - 🔭 I’m currently working on **projects with Tableau and PowerBI to enhance my analytics skills**
 - 🌱 I’m currently learning **Marketing strategy, Google Analytics, SEO and PowerBI**
 - 👯 My skills include **Microsoft Office Suite, Canva, Tableau, SQL, Python, Java and more !**
